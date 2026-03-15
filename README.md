@@ -6,7 +6,7 @@ A full-stack interactive campus navigation web app built with **React.js + Leafl
 
 ## 🚀 Live Demo
 
-> Add your deployed link here
+> XXXX
 
 ---
 
@@ -77,45 +77,6 @@ KIIT-Campus-Navigator/
 
 ---
 
-## ⚙️ Run Locally
-
-```bash
-# Clone
-git clone https://github.com/YOUR_USERNAME/KIIT-Campus-Navigator.git
-cd KIIT-Campus-Navigator
-
-# Install
-npm install
-
-# Run
-npm run dev
-```
-
-Open **http://localhost:5173**
-
----
-
-## 🚢 Deploy
-
-### Netlify
-```bash
-npm run build
-# Drag the /dist folder to netlify.com/drop
-```
-
-### Vercel
-```bash
-npm i -g vercel && vercel
-```
-
-### GitHub Pages
-Add `base: '/KIIT-Campus-Navigator/'` to `vite.config.js`, then:
-```bash
-npm run build
-# push /dist to gh-pages branch
-```
-
----
 
 ## 🗺️ Verified Campus Coordinates
 
@@ -188,7 +149,7 @@ Approximate TSP solution in **O(n²)** time.
 
 **Artificial Intelligence Lab**
 B.Tech — KIIT University, Bhubaneswar
-Academic Year 2024–25
+Academic Year 2025-26
 
 ---
 
