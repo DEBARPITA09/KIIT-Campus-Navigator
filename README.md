@@ -6,7 +6,7 @@ A full-stack interactive campus navigation web app built with **React.js + Leafl
 
 ## 🚀 Live Demo
 
-> XXXX
+> https://debarpita09.github.io/KIIT-Campus-Navigator/
 
 ---
 
